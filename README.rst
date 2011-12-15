@@ -1,18 +1,18 @@
 **Yet Another Form WIdget Library** (XHTML).
 
-YAFOWIL offers html-form creation and modification at runtime. Its light-weight
+YAFOWIL offers html form creation and modification at runtime. It is lightweight
 and provides an extensible, reusable set of blueprints to build flexible forms.
 
-YAFOWIL is independent from any web-framework, but easy to use in your
-web-framework.
+YAFOWIL is independent from any web framework, but easy to use in your
+web framework.
 
 It's all just about rendering widgets and extracting the data returned from the
 browser per widget. It does not fight with storage.
 
-YAFOWIL vary from most other HTML form packages: Its all just configuration. No
-subclassing needed any more; no specific schema-framework is necessary.
+YAFOWIL varies from most other HTML form packages: It's all just configuration. No
+subclassing needed any more; no specific schema framework is necessary.
 
-Yafowil provides a factory where you can fetch your widgets instances from.
+Yafowil provides a factory you can fetch your widgets instances from.
 Or you register your own.
 
 Detailed Documentation
@@ -28,7 +28,7 @@ Source Code
 The sources are in a GIT DVCS with its main branches at
 `github <http://github.com/bluedynamics/yafowil>`_.
 
-We'd be happy to see many forks and pull-requests to make YAFOWIL even better.
+We'd be happy to see any forks and pull-requests to make YAFOWIL even better.
 
 Contributors
 ============
